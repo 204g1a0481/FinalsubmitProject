@@ -58,4 +58,3 @@ This project is a Learning Management System (LMS) built with React.js for the f
 
 
 
-![Screenshot (82)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/a6550a77-605c-46e9-b038-fd2b1949575b)
